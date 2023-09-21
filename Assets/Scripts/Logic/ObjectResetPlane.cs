@@ -1,6 +1,7 @@
 using System.Collections.Generic;
+using UnityEngine;
 
-namespace UnityEngine.XR.Interaction.Toolkit.Samples.Hands
+namespace MacounDemo.Logic
 {
     /// <summary>
     /// Provides the ability to reset specified objects if they fall below a certain position - designated by this transform's height.
